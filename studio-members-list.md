@@ -1,3 +1,7 @@
+---
+permalink: /studio-members-list.html
+---
+
 # 核心工作室成员列表
 
 
