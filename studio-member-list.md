@@ -1,5 +1,5 @@
 ---
-permalink: /studio-member-list
+permalink: /404.html
 ---
 
 
