@@ -1,5 +1,5 @@
 ---
-permalink: /studio-members-list.html
+permalink: /studio-member-list.html
 ---
 
 # 核心工作室成员列表
