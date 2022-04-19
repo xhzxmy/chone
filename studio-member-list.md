@@ -1,5 +1,5 @@
 ---
-permalink: /studio-member-list.html
+permalink: /studio-member-list
 ---
 
 
